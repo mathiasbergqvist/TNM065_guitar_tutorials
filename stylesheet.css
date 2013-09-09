@@ -1,0 +1,196 @@
+body{
+	background:url(images/patterntexture.jpg) repeat;
+	font-family:Helvetica, Calibri, Verdana, Arial, sans-serif;
+	font-size: 10pt;
+}
+
+#loginstatus{
+	font-weight:bold;
+	text-align:right;
+	font-size: 12pt;
+	color: #F09F59;
+	padding-right: 20px;
+	padding-top: 20px;
+	position:relative;
+	top: -60px;
+}
+
+#rss{
+	padding: 10px;
+}
+
+a{
+	color: #F09F59;
+	text-decoration:none;
+}
+
+a:hover{
+	color: #cf701e;
+}
+
+
+header{
+	width:900px;
+	height: 200px;
+	background:url(images/GuitarTutorialsMainLogo.png);
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-10px;
+	margin-bottom: 0px;
+	border:solid;
+	border-width:2px;
+	border-color:black;
+}
+
+#searchfield{
+	text-align: right;
+	padding-right: 20px;
+}
+
+#searchbox{
+	height: 30px;
+	border:solid;
+	border-width:2px;
+	border-color:black;
+	position:relative;
+	top: -50px;
+}
+
+#searchdropdown{
+	color: #cf701e;
+	padding-top: 3px;
+	position:relative;
+	top: -50px;
+}
+
+#searchbtn{
+	padding-top: 6px;
+	width: 30px;
+	height: 30px;
+	background:url(images/searchbtnimagenonhover.png);
+	border:solid;
+	border-width:1px;
+	border-color:black;
+	position:relative;
+	top: -50px;
+}
+
+#searchbtn:hover{
+	background:url(images/searchbtnimage.png);
+	cursor: pointer;
+}
+
+#pagewrap{
+	width: 900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#content{  
+	width:900px;
+	min-height:400px;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	background:white;
+	border:solid;
+	border-width:2px;
+	border-color:black;
+	top:-1px;
+}
+
+#padding{
+	padding: 15px;
+} 
+
+nav{
+	padding: 10px;
+	margin-top: 20px;
+	font-size: 13pt;
+}
+
+.navigation{
+	color: #F09F59;
+	text-decoration: none;
+}
+
+.navigation:hover{
+	color: #cf701e;
+}
+
+footer{
+	font-size: 8pt;
+	color: #cf701e;
+	margin-left: 10px;
+}
+
+.styledbutton{
+	color: #4A4849;
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	background: #F09F59;
+	font-weight: bold;
+}
+
+.styledbutton:hover{
+	background: #CF701E;
+	cursor: pointer;
+}
+
+#letter_sitemap{
+	font-size:12pt;
+	font-weight:bold;
+}
+
+hr{
+	background: #4A4849;
+	height: 2px;
+	border: none;
+}
+
+#lorem_ipsum{
+	width: 600px;
+}
+
+#container{
+	width: 600px;
+}
+
+.column{
+	width: 260px;
+	float: left;
+	margin-left: 10px;
+	border:2px solid #a1a1a1;
+	padding:10px 10px; 
+	background:#dddddd;
+	border-radius:25px;
+	-moz-border-radius:25px;
+	min-height:180px;
+}
+
+.styledboarder{
+	border:2px solid #a1a1a1;
+	padding:10px 10px; 
+	background:#dddddd;
+	border-radius:25px;
+	-moz-border-radius:25px;
+}
+
+#sortform{
+	display: inline;
+}
+
+#twitterbtn{
+	float: right;
+	position: relative;
+	right: -162px;
+	top: -30px;
+}
+
+#twitter_widget{
+	float: right;
+	position: relative;
+	top: -60px;
+}
+
